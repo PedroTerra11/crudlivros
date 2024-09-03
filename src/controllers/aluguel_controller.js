@@ -1,4 +1,4 @@
-const model = require("../models/estudante_model.js")
+const model = require("../models/aluguel_model.js")
 
 const db = []
 

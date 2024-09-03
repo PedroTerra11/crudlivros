@@ -15,7 +15,7 @@ const model = (body, id = proxId++) => {
             id,
             aluguel: body.dataA,
             devolucao: body.dataD,
-            aluno: body.aluno_id,
+            aluno: body.estudante_id,
             livro: body.livro_id,
         }
     }
